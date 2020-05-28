@@ -29,7 +29,8 @@ In your html, call the select2 library:
 
 
 ```html 
-<link rel="stylesheet" href="/libs/universe/Ling/FontAwesome/5.13/css/all.min.css">
+<link rel="stylesheet" href="/libs/universe/Ling/Select2/4.0.13/select2.min.css">
+<script src="/libs/universe/Ling/Select2/4.0.13/select2.min.js"></script>
 
 ```
 
@@ -44,6 +45,10 @@ Note: we're using the [recommended assets structure for the universe](https://gi
 History Log
 =============
 
+- 1.0.1 -- 2020-05-28
+
+    - fix README typo
+    
 - 1.0.0 -- 2020-05-28
 
     - initial commit
